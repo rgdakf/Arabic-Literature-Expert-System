@@ -19,4 +19,4 @@ If you load the script into a Prolog environment (like SWI-Prolog), you can ask 
 - *"Is 'Men in the Sun' a good book for beginners?"*
   `?- is_beginner_book(men_in_the_sun).`
 
-Feel free to explore the `Arabic Literature Exp Systempl.pl` file to see the logic, rules, and the sample queries I included at the bottom!
+Feel free to explore the `Expert_System.pl` file to see the logic, rules, and the sample queries I included at the bottom!
